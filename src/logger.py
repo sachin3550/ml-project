@@ -16,5 +16,3 @@ logging.basicConfig(
 
 )
 
-if __nmae__=="__main__":
-    logging.info("logging has started")
